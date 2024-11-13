@@ -1,9 +1,9 @@
-# RAG-Qustion-Answering-Pipeline
+# RAG-Question-Answering-Pipeline
 
 A Retrieval Augmented Generation Pipeline to generate responses for questions related to Indian Premier League (IPL) matches.
  
 ## This involves :
-Dowload the HTML files from the URL's from espncricinfo.com
+Download the HTML files from the URL's from espncricinfo.com
 Processing the HTML files with BeautifulSoup library
 Generating questions using a Language Model, 
 Ingesting the data into ChromaDB, implementing RAG retrieval processes using LangChain, 
